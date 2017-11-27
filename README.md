@@ -1,2 +1,2 @@
 # liji
-accenture training GIT
+GIT training
